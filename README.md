@@ -8,7 +8,7 @@ Api: Done in node.js, Express.js, Sequelize, JWT (JSON Web Token), bcrypt, Cloud
 Database: PostgreSQL, PgAdmin
 Mobile: Dart
 
-==============================================================================================================================
+=========================================================================================
 
 Start web
 Go to the web folder and run the command npm install and then npm start.
@@ -23,7 +23,7 @@ Start Mobile
 if problems do
 . Run > Start Debugging
 
-=================================================================================================================================
+=========================================================================================
 
 To connect the database in pgAdmin.
 Go to Servers > Register > Server > Connection:
@@ -66,15 +66,15 @@ Mobile app available on the website /sobre
 Admin: administrador Pass: 123
 User: utilizador Pass: 123
 
-=================================================================================================================================
+=========================================================================================
 
 Images: 
 
 Website
 
-![Main](https://github.com/user-attachments/assets/b374a9bb-52f1-493b-882c-469066b6b618)
-![Backend](https://github.com/user-attachments/assets/1040c423-2dc5-4186-9cb4-9f55bafd1dba)
+<img src="https://github.com/user-attachments/assets/b374a9bb-52f1-493b-882c-469066b6b618" width="300" />
+<img src="https://github.com/user-attachments/assets/1040c423-2dc5-4186-9cb4-9f55bafd1dba" width="300" />
 
 Mobile
 
-![Mobile](https://github.com/user-attachments/assets/ea6063fe-f3cd-4cad-bf4a-49adde56b5a1)
+<img src="https://github.com/user-attachments/assets/ea6063fe-f3cd-4cad-bf4a-49adde56b5a1" width="120" />
