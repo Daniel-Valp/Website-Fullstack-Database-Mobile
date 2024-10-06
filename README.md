@@ -28,10 +28,10 @@ if problems do
 
 To connect the database in pgAdmin.
 Go to Servers > Register > Server > Connection:
-Host name/address: dpg-cnge0pq1hbls73fq15vg-a.frankfurt-postgres.render.com
-Port: 5432
-Username: manager
-Password: 2Tes25NellX6Es9MM92Mg1a5g59Jz5J3
+Host name/address:
+Port: 
+Username: 
+Password: 
 
 How to use Local Database in the API
 
