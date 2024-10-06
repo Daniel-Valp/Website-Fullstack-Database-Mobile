@@ -28,10 +28,10 @@ if problems do
 
 To connect the database in pgAdmin.
 Go to Servers > Register > Server > Connection:
-Host name/address:
-Port: 
-Username: 
-Password: 
+Host name/address: (your hostname)
+Port: (your port)
+Username: (your username)
+Password: (your password)
 
 How to use Local Database in the API
 
