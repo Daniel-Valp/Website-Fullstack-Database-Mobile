@@ -10,65 +10,6 @@ Mobile: Dart
 
 ===========================================================================
 
-
-Start web
-Go to the web folder and run the command npm install and then npm start.
-
-Start backend
-Go to the backend folder and run the command npm install and then npm start.
-
-Start Mobile
-. cd .\movel_pint\
-. Start Emulator
-. Npm Run
-if problems do
-. Run > Start Debugging
-
-===========================================================================
-
-To connect the database in pgAdmin.
-Go to Servers > Register > Server > Connection:
-Host name/address: (your hostname)
-Port: (your port)
-Username: (your username)
-Password: (your password)
-
-How to use Local Database in the API
-
-Create a file in the src/data directory named database.js and add the following, replacing the "x" values while keeping the rest:
-export const DB_CONFIG = {
-    DATABASE: "x",
-    USERNAME: "x",
-    PASSWORD: "x",
-    HOST: "localhost",
-    PORT: "5432",
-    DIALECT: "postgres",
-    SSL_ENABLED: false,
-};
-
-The routes have the following structure:
-localhost:8000/<table_name>/<list/get/create/update/delete>
-
-If it is a GET, PUT, or DELETE request, it takes an additional parameter, like /1, for example.
-List: POST
-Get: GET
-Create: POST
-Update: PUT
-Delete: DELETE
-
-
-Web: https://web-6grl.onrender.com/
-Backend: https://api-vwah.onrender.com/
-
-! First start Api and then Web ! 
-
-Mobile app available on the website /sobre
-
-Admin: administrador Pass: 123
-User: utilizador Pass: 123
-
-===========================================================================
-
 Images: 
 
 Website
